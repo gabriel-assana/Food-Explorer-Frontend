@@ -4,7 +4,7 @@ Link para acesso a aplicação: https://food-explorer-prod.netlify.app/
 
 Usuarios para Teste 
 
-Email: Fulano@gmail.com
+Email: fulano@gmail.com
 Senha: 123456
 
 Usuario adm
