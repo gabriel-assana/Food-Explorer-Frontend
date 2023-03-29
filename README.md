@@ -70,7 +70,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone https://github.com/gabriel-assana/Food-Explorer-Frontend-1.git
+$ git clone https://github.com/gabriel-assana/Food-Explorer-Frontend.git
 ```
 ___
 
