@@ -31,6 +31,7 @@ Como já tido anterior mente ele poderá ainda alterar o status dos pedidos, de 
 Projeto ainda conta com a customização de (light/dark mode) que possibilita a escolha entre um tema mais claro e escuro. E o mais importante de tudo: É responsivo para a utilização em diversos tipos de dispositivos!
 
 
+
 ___
 
 ## 🎨 Layout
