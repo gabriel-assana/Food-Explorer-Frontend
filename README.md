@@ -9,7 +9,6 @@
 Este é o resultado do desafio final do Explorer, o Food Explorer.
 <br>
 Este repositório contém os dados do Frontend da minha aplicação em React.js.
-
 ___
 
 ## 💻 Sobre
