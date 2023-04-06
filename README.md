@@ -28,9 +28,6 @@ O carrinho é 100% funcional e o usuário pode escolher entre 2 formas de pagame
 Já o administrador terá a capacidade de 💾criar-📝editar-🗑remover os pratos da forma que desejar.
 Como já tido anterior mente ele poderá ainda alterar o status dos pedidos, de acordo com a linha de preparo dos mesmos na cozinha. Este status será imediatamente atualizado na tela dos consumidores.
 Projeto ainda conta com a customização de (light/dark mode) que possibilita a escolha entre um tema mais claro e escuro. E o mais importante de tudo: É responsivo para a utilização em diversos tipos de dispositivos!
-
-
-
 ___
 
 ## 🎨 Layout
