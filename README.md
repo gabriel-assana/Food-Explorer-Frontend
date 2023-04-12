@@ -92,7 +92,6 @@ $ npm run dev
 ```
 ___
 
-
 #### 🔑 Quer ver como a aplicação funciona vista pelo Admin? Use a conta a seguir:
 
 ```bash
