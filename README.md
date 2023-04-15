@@ -6,6 +6,7 @@
   <img width="550" height="99" src="https://user-images.githubusercontent.com/106932234/204160165-1936c0db-539f-4a11-bf5e-1f3d3f789896.png">
 </p>
 
+
 Este é o resultado do desafio final do Explorer, o Food Explorer.
 <br>
 Este repositório contém os dados do Frontend da minha aplicação em React.js.
