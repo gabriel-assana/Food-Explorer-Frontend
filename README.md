@@ -96,7 +96,7 @@ ___
 #### 🔑 Quer ver como a aplicação funciona vista pelo Admin? Use a conta a seguir:
 
 ```bash
-  e-mail: adm@gmail.com
+  e-mail: admin@gmail.com
   senha: 123
 ```
 ___
